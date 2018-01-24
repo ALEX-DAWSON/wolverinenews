@@ -678,6 +678,10 @@ h3 {
 
 .motw-date-n-photo-box {
   display: flex;
+  align-self: right;
+  @media screen and (min-width: $xl){
+    align-self: baseline;
+  }
 }
 
 .motw-author-photo {
@@ -708,6 +712,8 @@ h3 {
 
 .motw-title-text-box-div {
   flex-direction: column !important;
+  align-content: center;
+  align-items: center;
 }
 
 //

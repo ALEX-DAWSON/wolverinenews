@@ -36,3 +36,8 @@ memes:
     meme_date: January 17, 2018
     meme_image: /images/HalfPriceMeme.jpg
     meme_alt: Half Price Meme
+  - meme_title: Yes, I would love to eat these blueberries!
+    meme_date: January 24, 2018
+    meme_text_part1: Where are they?
+    meme_image: /images/Blueberries.jpg
+    meme_alt: Apples in a "Eat Blueberries" package.
